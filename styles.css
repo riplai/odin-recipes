@@ -1,4 +1,8 @@
-div {
+html {
+    box-sizing: border-box;
+}
+
+body {
     font-family: 'Fira Code', 'Arvo', sans-serif;
 }
 
@@ -8,6 +12,9 @@ h1 {
 }
 
 .photo {
-    text-align: center ;
-}
+    text-align: center;
+    }
 
+.navigation {
+    color: blueviolet;
+    }
